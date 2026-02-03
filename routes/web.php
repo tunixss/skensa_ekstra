@@ -29,6 +29,9 @@ Route::get('/prestasi', function () {
 Route::get('/tentang', function () {
     return view('FRONTEND.tentang');
 });
+Route::get('/ekstra', function () {
+    return view('FRONTEND.ekstra');
+});
 
 
 

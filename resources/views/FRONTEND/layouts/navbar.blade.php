@@ -31,7 +31,7 @@
             <!-- Menu Desktop -->
             <ul class="hidden lg:flex items-center gap-8 font-medium">
                 <li><a href="/" class="text-gray-700 hover:text-blue-600 transition">Beranda</a></li>
-                <li><a href="#eskul" class="text-gray-700 hover:text-blue-600 transition">Ekskul</a></li>
+                <li><a href="/ekstra" class="text-gray-700 hover:text-blue-600 transition">Ekskul</a></li>
                 <li><a href="/berita" class="text-gray-700 hover:text-blue-600 transition">Berita</a></li>
                 <li><a href="/prestasi" class="text-gray-700 hover:text-blue-600 transition">Prestasi</a></li>
                 <li><a href="/tentang" class="text-gray-700 hover:text-blue-600 transition">Tentang</a></li>
