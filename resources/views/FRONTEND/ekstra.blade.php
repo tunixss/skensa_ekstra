@@ -178,7 +178,7 @@
     box-shadow: 0 12px 30px rgba(0,0,0,.12);
 }
 .info-box.dark {
-    background: #355c8c;
+    background: #ffffff;
     color: #fff;
 }
 .info-box.light {
